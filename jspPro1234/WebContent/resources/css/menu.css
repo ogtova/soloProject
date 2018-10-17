@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#fixedmenu {
+	text-align: center;
+	display: inline;
+	list-style-type: none;
+	padding-left: 0px;
+}
+#fixedmenu ul {
+	padding-left: 0px;
+}
+#fixedmenu ul li {
+	display: inline;
+	padding: 8%;
+}
